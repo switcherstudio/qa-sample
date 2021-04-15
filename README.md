@@ -8,7 +8,7 @@ Your team has developed an extremely simple web app for tracking activity ideas 
 ### App requirements
 For each friend, the app will display a UI card that will:
 * display name and email.
-* show a configurable activity parameter in a dropdown containing a list of activity types.
+* show a list of activity types.
 * display the current activity idea, along with its difficulty and price ratings. **Ratings should be displayed using a 10-point scale ("X / 10").**
 * include a **Get New Activity** button. Behavior: 
   * when clicked, **retrieve a random activity idea of the selected type** from the [Bored API](https://www.boredapi.com/), and replaces the old one in the card.
