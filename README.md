@@ -1,5 +1,7 @@
 # Switcher Studio QA Sample
 
+https://switcherstudio.github.io/qa-sample/
+
 ## The App
 Your team has developed an extremely simple web app for tracking activity ideas for friends.
 
